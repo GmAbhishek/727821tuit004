@@ -1,0 +1,32 @@
+# Node.js files
+node_modules/
+
+# Build output (if applicable)
+build/
+
+# Dependency directory
+package-lock.json
+
+# dotenv environment files
+.env*
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Testing coverage
+coverage/
+
+# Temporary files
+tmp/
+
+# Compiled JavaScript (if applicable)
+*.js
+
+# Typescript related files
+*.ts
+tsconfig.json
+tsnode.json
