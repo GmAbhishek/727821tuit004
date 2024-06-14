@@ -23,8 +23,6 @@ coverage/
 # Temporary files
 tmp/
 
-# Compiled JavaScript (if applicable)
-*.js
 
 # Typescript related files
 *.ts
